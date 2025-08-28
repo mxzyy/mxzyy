@@ -1,10 +1,11 @@
 <p align="center">
-  <img width="850" src="/terminal.gif">
+  <img width="850" src="https://raw.githubusercontent.com/mxzyy/mxzyy/refs/heads/main/Screenshot%202025-08-28%20205456.png">
 </p>
 
-<p align="center">Nice to see you! Welcome To My GitHub Page</p>
+##
 
-## Some Programming Language & Framework That I'm Use
+
+## Currently Learning
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
@@ -12,12 +13,12 @@
   <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
-## Operating System that I'm Sometimes Use
+## Daily uses
 
 <p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  
 </p>
 
 ## My Stats
